@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
+<a href="https://github.com/obezsmertnyi?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=obezsmertnyi&theme=transparent" />
+</a>
+<a href="https://github.com/obezsmertnyi?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obezsmertnyi&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
+
+
 ### 🤝 Contact Me
 Hey there! If you wanna chat, work together, or just say hi, shoot me an email or let's connect on LinkedIn. Thanks for stopping by my GitHub!
 
