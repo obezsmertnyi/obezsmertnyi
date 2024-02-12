@@ -42,6 +42,14 @@ _September 2005 - November 2016_
 - Developed contingency plans for system recovery post-failures, minimizing downtime.
 - Managed projects related to opening new and closing old branches, including all technical preparations and equipment configurations.
 
+### Software Engineer, OJSC "Sumyoblenergo"
+_November 2000 - September 2005_
+ - Supported and optimized the performance of billing software, ensuring the stability of business processes.
+ - Participated in the development and implementation of new IT solutions to improve company efficiency.
+ - Managed data access rights and security, ensuring protection against unauthorized access.
+ - Installed and maintained local computing networks, improving their performance and reliability.
+
+
 ## Skills
 
 - Operating Systems: Linux, Windows
