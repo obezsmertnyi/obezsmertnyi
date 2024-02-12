@@ -5,8 +5,20 @@ Email: winneer@gmail.com
 LinkedIn: [Oleksander Bezsmertnyi](https://www.linkedin.com/in/oleksander-bezsmertnyi/)  
 telegram: https://t.me/obezsmertnyi
 
-## Professional Experience
+## Skills
 
+- Operating Systems: Linux, Windows
+- Containerization and Orchestration: Docker, Kubernetes, Helm
+- Infrastructure as Code: Ansible, Terraform
+- CI/CD Tools: Git, GitLab, GitHub, ArgoCD, Flux, Nexus, Minio
+- Cloud Services: AWS, OpenStack
+- Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+- Networking: HAProxy, Cisco, MikroTik, etc..
+- Monitoring and Logging: Zabbix, EFK, Prometheus, Grafana, Graylog
+- Scripting Languages: Bash, PowerShell
+- Blockchain Technologies: Understanding of fundamentals and application in projects
+
+## Professional Experience
 ### DevOps Specialist, D&V Global B.V.
 _2019 - Present_
 
@@ -49,20 +61,6 @@ _November 2000 - September 2005_
  - Managed data access rights and security, ensuring protection against unauthorized access.
  - Installed and maintained local computing networks, improving their performance and reliability.
 
-
-## Skills
-
-- Operating Systems: Linux, Windows
-- Containerization and Orchestration: Docker, Kubernetes, Helm
-- Infrastructure as Code: Ansible, Terraform
-- CI/CD Tools: Git, GitLab, GitHub, ArgoCD, Flux, Nexus, Minio
-- Cloud Services: AWS, OpenStack
-- Databases: MySQL, PostgreSQL, MongoDB, Cassandra
-- Networking: HAProxy, Cisco, MikroTik
-- Monitoring and Logging: Zabbix, EFK, Prometheus, Grafana, Graylog
-- Scripting Languages: Bash, PowerShell
-- Blockchain Technologies: Understanding of fundamentals and application in projects
-
 ## Education
 
 ### Sumy State University
@@ -89,7 +87,7 @@ _Specialty: Junior Specialist in Computer Engineering, 2000_
 
  - [DevOps and Kubernetes. Practial intencive cource], [Globallogic, Prometheus], 01/2024
  - [Introduction to MLOps/LLMOps], [Proboost], 12/2023
- - [DevOps for system administrators], [Web Acaademy], 12/2023
+ - [DevOps for system administrators], [Web Academy], 12/2023
  - [Administration of Kubernetes], [Itedu], 08/2023
  - [DevOps. Basic cource], [Web Acaademy] 09/2019
     
