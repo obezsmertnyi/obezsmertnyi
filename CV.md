@@ -1,20 +1,20 @@
 # DevOps Engineer
 
 **Contact Information**  
-Email: winneer@gmail.com  
+Email: alexander.bezsmertnyy@gmail.com  
 LinkedIn: [Oleksander Bezsmertnyi](https://www.linkedin.com/in/oleksander-bezsmertnyi/)  
 telegram: https://t.me/obezsmertnyi
 
 ## Skills
 
-- Operating Systems: Linux, Windows
-- Containerization and Orchestration: Docker, Kubernetes, Helm
-- Infrastructure as Code: Ansible, Terraform
+- Cloud Services: AWS, GCP, OpenStack
+- Containerization and Orchestration: Kubernetes, Helm, Docker
 - CI/CD Tools: Git, GitLab, GitHub, ArgoCD, Flux, Nexus, Minio
-- Cloud Services: AWS, OpenStack
+- Infrastructure as Code: Ansible, Terraform
+- Monitoring and Logging: Zabbix, EFK, Prometheus, Grafana, Graylog
+- Operating Systems: Linux, Windows
 - Databases: MySQL, PostgreSQL, MongoDB, Cassandra
 - Networking: HAProxy, Cisco, MikroTik, etc..
-- Monitoring and Logging: Zabbix, EFK, Prometheus, Grafana, Graylog
 - Scripting Languages: Bash, PowerShell
 - Blockchain Technologies: Understanding of fundamentals and application in projects
 
@@ -24,9 +24,9 @@ _2019 - Present_
 
 - Developed and maintained CI/CD processes, enhancing workflow efficiency.
 - Managed infrastructure as code using Ansible and Terraform, improving process effectiveness.
-- Supported cloud-based solutions on AWS.
+- Implemented and supported cloud-based solutions on AWS.
 - Worked with containerization and orchestration using Docker and Kubernetes.
-- Supported blockchain technologies.
+- Orchestrated deployment and seamless operation of numerous microservices in blockchain projects, ensuring high availability and reliability through comprehensive monitoring, logging, and alerting systems, while effectively liaising with business stakeholders to address their needs.
 
 ### Deputy Head of IT and Computer Services, Executive Committee of Sumy City Council
 _September 2017 – 2019_
