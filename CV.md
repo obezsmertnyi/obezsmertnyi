@@ -20,7 +20,7 @@ telegram: https://t.me/obezsmertnyi
 
 ## Professional Experience
 ### DevOps Specialist, D&V Global B.V.
-_2019 - Present_
+_November 2019 - Present_
 
 - Developed and maintained CI/CD processes, enhancing workflow efficiency.
 - Managed infrastructure as code using Ansible and Terraform, improving process effectiveness.
@@ -29,7 +29,7 @@ _2019 - Present_
 - Orchestrated deployment and seamless operation of numerous microservices in blockchain projects, ensuring high availability and reliability through comprehensive monitoring, logging, and alerting systems, while effectively liaising with business stakeholders to address their needs.
 
 ### Deputy Head of IT and Computer Services, Executive Committee of Sumy City Council
-_September 2017 – 2019_
+_September 2017 – November 2019_
 
 - Led technical aspects of the IT department: organized work, distributed tasks, and ensured their completion, trained, and developed the team.
 - Successfully worked with the ProZorro system and implemented modern IT solutions, improving process efficiency.
