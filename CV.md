@@ -5,19 +5,10 @@ Email: alexander.bezsmertnyy@gmail.com
 LinkedIn: [Oleksander Bezsmertnyi](https://www.linkedin.com/in/oleksander-bezsmertnyi/)  
 telegram: https://t.me/obezsmertnyi
 
-## Skills
-
-- Cloud Services: AWS, GCP, OpenStack
-- Containerization and Orchestration: Kubernetes, Helm, Docker
-- CI/CD Tools: Git, GitLab, GitHub, ArgoCD, Flux, Nexus, Minio
-- Infrastructure as Code: Ansible, Terraform
-- Monitoring and Logging: Zabbix, EFK, Prometheus, Grafana, Graylog
-- Operating Systems: Linux, Windows
-- Databases: MySQL, PostgreSQL, MongoDB, Cassandra
-- Networking: HAProxy, Cisco, MikroTik, etc..
-- Scripting Languages: Bash, PowerShell
-- Blockchain Technologies: Understanding of fundamentals and application in projects
-
+## Professional Summary
+- Over 15 years of IT experience with a focused 5-year journey in DevOps, managing both cloud and on-premises environments.
+-  Experienced in setting up and optimizing CI/CD workflows using tools like Kubernetes, GitLab, Docker, Terraform, Ansible etc aimed at enhancing operational efficiency.
+- Held the position of Deputy Head of the IT department, leading a technical team and actively participating in infrastructure development and optimization projects, including city-wide IT infrastructure expansion.
 ## Professional Experience
 ### DevOps Specialist, D&V Global B.V.
 _November 2019 - Present_
@@ -60,6 +51,19 @@ _November 2000 - September 2005_
  - Participated in the development and implementation of new IT solutions to improve company efficiency.
  - Managed data access rights and security, ensuring protection against unauthorized access.
  - Installed and maintained local computing networks, improving their performance and reliability.
+
+## Skills
+
+- Cloud Services: AWS, GCP, OpenStack
+- Containerization and Orchestration: Kubernetes, Helm, Docker
+- CI/CD Tools: Git, GitLab, GitHub, ArgoCD, Flux, Nexus, Minio
+- Infrastructure as Code: Ansible, Terraform
+- Monitoring and Logging: Zabbix, EFK, Prometheus, Grafana, Graylog
+- Operating Systems: Linux, Windows
+- Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+- Networking: HAProxy, Cisco, MikroTik, etc..
+- Scripting Languages: Bash, PowerShell
+- Blockchain Technologies: Understanding of fundamentals and application in projects
 
 ## Education
 
